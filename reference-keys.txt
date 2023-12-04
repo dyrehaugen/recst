@@ -42,7 +42,10 @@ abba-lerner
 david-ricardo
 elinor-ostrom
 adam-smith-1
+angus-deaton
+eugene-fama
 karl-polanyi
+robert-lucas-1
 about
 links
 news
